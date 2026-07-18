@@ -18,6 +18,7 @@ pipeline {
             steps {
                 echo 'Deploying Application'
                 echo 'Jagruti'
+                echo 'Hello'
             }
         }
     }
