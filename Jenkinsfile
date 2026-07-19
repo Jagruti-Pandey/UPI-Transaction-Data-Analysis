@@ -19,6 +19,7 @@ pipeline {
                 echo 'Deploying Application'
                 echo 'Jagruti'
                 echo 'Hello'
+                echo 'Jenkins'
             }
         }
     }
