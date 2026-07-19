@@ -20,6 +20,7 @@ pipeline {
                 echo 'Jagruti'
                 echo 'Hello'
                 echo 'Jenkins'
+                echo 'File'
             }
         }
     }
